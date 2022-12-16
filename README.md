@@ -6,7 +6,7 @@
 
 [Project website](https://sites.google.com/view/ie6600-sec05-project01-group18/home)
 
-![image](https://user-images.githubusercontent.com/49282511/208032480-5bb8b592-c1df-4249-bf07-54829e5806a1.png)
+![image](https://user-images.githubusercontent.com/49282511/208032655-91cb63a5-bcc4-42be-b0be-3d1e3388f4fd.png)
 
 
 ## Skills:
